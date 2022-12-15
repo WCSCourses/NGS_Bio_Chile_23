@@ -23,6 +23,8 @@ Learn how to analyse NGS data using the latest bioinformatics tools and resource
  
  - [Eric Dawson](https://developer.nvidia.com/blog/author/edawson/) - NVIDIA, USA
  
+ - [Marcela Sjöberg](https://biologia.uc.cl/sjoberg-marcela/) - PUC, Chile
+ 
  - [Martín García Solá](https://www.researchgate.net/profile/Martin-Garcia-Sola) - UBA, Argentina
  
  - [Patricia Basurto Lozarda](https://www.linkedin.com/in/patricia-basurto-lozada-7990718a/) - LIIGH, Mexico
