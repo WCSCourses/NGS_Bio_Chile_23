@@ -3,7 +3,13 @@
 
 # NGS Bioinformatics 2023 (Latin America)
 
-Learn how to analyse NGS data using the latest bioinformatics tools and resources
+In collaboration with the [Facultad de Ciencias Biológicas of Pontificia Universidad Católica de Chile](https://www.uc.cl/en), Santiago, Chile, we are pleased to announce our latest Overseas Course in Next generation sequencing Bioinformatics.
+
+Next generation sequencing has become an essential tool in current genetic and genomic analysis. It is increasingly important for experimental scientists to gain the bioinformatics skills required to assess and analyse the large volumes of sequencing data produced by next generation sequencers.
+
+This next generation sequencing bioinformatics course aims to provide a hands-on introduction to bioinformatics for next generation sequencing and to equip participants with the essential informatics skills and knowledge required to begin analysing next generation sequencing data and carry out some of the most common types of analysis.
+
+The course programme will cover from an overview of prominent sequencing technologies to principles of bioinformatics, with a strong focus on practical computational sessions using sequence analysis techniques and tools applicable to any species or genome size. A variety of applications will be covered from post-sequencing analysis (QC, alignment, assembly, variant calling) to RNA-Seq and cancer genomics. Accompanying the lectures and practical sessions will be a series of seminars by invited speakers, who will highlight their cutting-edge work harnessing the power of next generation sequencing technologies to address a wide range of biological questions.
 
 
 ## Course Overview
