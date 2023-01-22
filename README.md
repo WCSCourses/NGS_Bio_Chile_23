@@ -17,7 +17,7 @@ The course programme will cover from an overview of prominent sequencing technol
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-latin-america-and-the-caribbean-20230122/)
  
 
- # Instructors and Speakers
+ ## Instructors and Speakers
  
  - [Alejandra Medina Rivera](http://liigh.unam.mx/profile/dra-alejandra-medina-rivera/) - LIIGH, Mexico 
  
@@ -37,32 +37,35 @@ The course programme will cover from an overview of prominent sequencing technol
  
  - [Ximena Ibarra Soria](https://www.linkedin.com/in/ximena-ibarra-soria-a05516b2/) - GSK, UK
  
- # Course Manual
+ ## Course Manual
+ [Course Manual Folder](https://github.com/WCSCourses/NGS_Bio_Chile_23/tree/main/Manual)    
  
- Day 1:
+ ## Course Index
  
-  - Introduction to Sequencing Technologies
-  - Nanopore
-  - Introduction to VM
-  - Introduction to Unix
-  - Advanced Unix
+### Day 1:
+ 
+  - [1. Introduction to Sequencing Technologies](Manual/sequencing_technologies/Module_1_2023_-NGS_technologies_MS.pdf)
+  - 2. Introduction to VM
+  - [3. Introduction to Unix](Manual/unix/2022-NGSBio-UnixSlides.pdf)
+  - [Advanced Unix]()
   
- Day 2:
+### Day 2:
   
-  - NGS File Formats, QC & Data Processing
-  - Read Alignment
+  - 4. NGS File Formats, QC & Data Processing
+  - 5. Read Alignment
 
- Day 3:
+### Day 3:
  
- - Variant Calling
+ - 6. Variant Calling
  - Public Repositories
- - SV Calling
+ - 7. SV Calling
 
-Day 4:
+### Day 4:
 
-- ChIP-Seq 
-- RNA-Seq
+- 8. ChIP-Seq 
+- 9. RNA-Seq
  
-Day 5:
+### Day 5:
 
-- Group projects
+- 10. Assembly
+- 11. Group projects
