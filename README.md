@@ -55,23 +55,29 @@ The course programme will cover from an overview of prominent sequencing technol
   
 ### Day 2:
   
-  - 4. NGS File Formats, QC & Data Processing
-  - 5. Read Alignment
+  - [4. NGS File Formats, QC & Data Processing](Manual/data_formats/Module_3_NGSBIO234-material-QC_Robles.pdf)
+  - [5. Read Alignment - Slides](Manual/read_alignment/2023-NGSBio-Chile-Read-Alignment-Slides.pdf)   
+  - [5. Read Alignment - Practical Exercise](Manual/read_alignment/2023-NGSBio-Chile-Read-Alignment-Exercises.pdf)   
 
 ### Day 3:
  
- - 6. Variant Calling
- - Public Repositories
- - 7. SV Calling
+ - [6. Variant Calling](Manual/variant_calling/Module_6_NGSBIO234-material-VariantCalling_Robles.pdf)
+ - [Lecture - Public Repositories](Manual/public_repositories/Module_13_2023_PublicRepositories_MS.pdf)
+ - [7. Structural Variant Calling Slides](Manual/structural_variation/2020-2015-NGSBio-SV-Slides.pdf)
+ - [7. Structural Variant Calling Practical Exercise](Manual/structural_variation/structural_variation.pdf)
 
 ### Day 4:
 
-- 8. ChIP-Seq 
-- 9. RNA-Seq
+- [8. ChIP-Seq Slides](Manual/chip_seq/2015-2019-NGSBio-CHiPSeq-Slides.pdf)
+- [ChIP-Seq Practical Manual](Manual/chip_seq/ChIP-Seq.pdf)
+- [9. RNA-Seq Slides](Manual/rna_seq/2023-NGSBio-Chile-RNA-seq-Slides.pdf)
+- [9. RNA-Seq Practical Exercises](Manual/rna_seq/2023-NGSBio-Chile-RNA-seq-Exercises.pdf)
  
 ### Day 5:
 
-- 10. Assembly
+- [10. Assembly Slides](Manual/assembly/assembly_lecture_and_presentation/2020-NGSBio-AssemblyLecture.pdf)
+-[10. Assembly Practical Exercise](Manual/assembly/assembly_lecture_and_presentation/assembly_practical.pdf)
+
 - [11. Group Projects Overview](Manual/group_projects/LAC_NGS_WGCAC_Group_Tasks_2023.pdf)
  NB - for group projects, use google drive link provided in the Project Selection Sheet for the most up to date instructions. 
 - [Group Project Selection Sheet](https://docs.google.com/spreadsheets/d/1jTJJ8eZt130NIYQ8Rcd1FwgMoyg4JNjRzJSdbgrK1cc/edit?usp=sharing)
