@@ -17,7 +17,7 @@ The course programme will cover from an overview of prominent sequencing technol
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-latin-america-and-the-caribbean-20230122/)
  
 
- ## Instructors and Speakers
+## Instructors and Speakers
  
  - [Alejandra Medina Rivera](http://liigh.unam.mx/profile/dra-alejandra-medina-rivera/) - LIIGH, Mexico 
  
@@ -37,13 +37,13 @@ The course programme will cover from an overview of prominent sequencing technol
  
  - [Ximena Ibarra Soria](https://www.linkedin.com/in/ximena-ibarra-soria-a05516b2/) - GSK, UK
  
- ## Course Manual
+## Course Manual
  [Course Manual Folder](https://github.com/WCSCourses/NGS_Bio_Chile_23/tree/main/Manual)    
  
- ## Timetable
- [Timetable](Manual/Timetable/2023_Timetable_NGS_Bioinformatics_LAC.pdf)    
- 
- ## Course Index
+## Timetable    
+[Timetable](Manual/Timetable/2023_Timetable_NGS_Bioinformatics_LAC.pdf)    
+
+## Course Index
  
 ### Day 1:
  
