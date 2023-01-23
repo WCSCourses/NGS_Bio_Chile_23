@@ -40,14 +40,18 @@ The course programme will cover from an overview of prominent sequencing technol
  ## Course Manual
  [Course Manual Folder](https://github.com/WCSCourses/NGS_Bio_Chile_23/tree/main/Manual)    
  
+ ## Timetable
+ [Timetable](Manual/Timetable/2023_Timetable_NGS_Bioinformatics_LAC.pdf)    
+ 
  ## Course Index
  
 ### Day 1:
  
   - [1. Introduction to Sequencing Technologies](Manual/sequencing_technologies/Module_1_2023_-NGS_technologies_MS.pdf)
-  - 2. Introduction to VM
+  - [2. Introduction to VM](Manual/2023-NGSBio-Chile-Intro_VM-Slide.pdf)
+  - [Installing your VM](Manual/2023-NGSBio-Chile-Virtual-Machine-at-home.pdf)
   - [3. Introduction to Unix](Manual/unix/2022-NGSBio-UnixSlides.pdf)
-  - [Advanced Unix]()
+  - [Unix for Bioinformatics](Manual/unix/unix.pdf)
   
 ### Day 2:
   
