@@ -72,4 +72,6 @@ The course programme will cover from an overview of prominent sequencing technol
 ### Day 5:
 
 - 10. Assembly
-- 11. Group projects
+- [11. Group Projects Overview](Manual/group_projects/LAC_NGS_WGCAC_Group_Tasks_2023.pdf)
+ NB - for group projects, use google drive link provided in the Project Selection Sheet for the most up to date instructions. 
+- [Group Project Selection Sheet](https://docs.google.com/spreadsheets/d/1jTJJ8eZt130NIYQ8Rcd1FwgMoyg4JNjRzJSdbgrK1cc/edit?usp=sharing)
