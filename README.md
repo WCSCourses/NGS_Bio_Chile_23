@@ -39,7 +39,14 @@ The course programme will cover from an overview of prominent sequencing technol
  
 ## Course Manual
  [Course Manual Folder](https://github.com/WCSCourses/NGS_Bio_Chile_23/tree/main/Manual)    
- 
+
+## Advanced Learning And Training
+ [ALT Information Document](https://drive.google.com/file/d/1IJXEGdF-dSCpzzzxt1HaV0ymVrCOj9sX/view?usp=sharing)       
+ To complete during course:    
+ [ALT Toolkit - download hard copy](Manual/ALT_Toolkit_NGSChile2023_MyName.xlsx)    
+ [ALT Toolkit - make a google drive  copy](https://docs.google.com/spreadsheets/d/1rGx_ElthWYMCHoQaj213HteWhfCHxUJN/edit?usp=sharing&ouid=101020480766226270980&rtpof=true&sd=true)
+
+
 ## Timetable    
 [Timetable](Manual/Timetable/2023_Timetable_NGS_Bioinformatics_LAC.pdf)    
 
