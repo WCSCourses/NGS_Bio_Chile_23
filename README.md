@@ -37,6 +37,10 @@ The course programme will cover from an overview of prominent sequencing technol
  
  - [Ximena Ibarra Soria](https://www.linkedin.com/in/ximena-ibarra-soria-a05516b2/) - GSK, UK
  
+ - [Martin Aslett - WCS IT](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/) - Wellcome Connecting Science, UK
+ 
+ - [Jorge Batista da Rocha- WCS ALT](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/) - Wellcome Connecting Science, UK
+ 
 ## Course Manual
  [Course Manual Folder](https://github.com/WCSCourses/NGS_Bio_Chile_23/tree/main/Manual)    
 
