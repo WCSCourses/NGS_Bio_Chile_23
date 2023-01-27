@@ -92,3 +92,6 @@ The course programme will cover from an overview of prominent sequencing technol
 - [11. Group Projects Overview](Manual/group_projects/LAC_NGS_WGCAC_Group_Tasks_2023.pdf)
  NB - for group projects, use google drive link provided in the Project Selection Sheet for the most up to date instructions. 
 - [Group Project Selection Sheet](https://docs.google.com/spreadsheets/d/1jTJJ8eZt130NIYQ8Rcd1FwgMoyg4JNjRzJSdbgrK1cc/edit?usp=sharing)
+
+### Upload your presentations here:
+-[Group Project Upload Folder](https://drive.google.com/drive/folders/1_ba1jRNhEgoyXf0gIv6aX_OlJnShdMOO?usp=sharing) 
