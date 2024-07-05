@@ -95,3 +95,8 @@ The course programme will cover from an overview of prominent sequencing technol
 
 ### Upload your presentations here:
 -[Group Project Upload Folder](https://drive.google.com/drive/folders/1_ba1jRNhEgoyXf0gIv6aX_OlJnShdMOO?usp=sharing) 
+
+******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+
